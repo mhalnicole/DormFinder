@@ -16,7 +16,7 @@ This repository contains the complete implementation of **Project Increment 1 (U
 
 ---
 
-## 2. Implemented Features (No Mock Data / No AI Traps)
+## 2. Implemented Features
 
 ### 1. User Account Creation (Registration)
 - Dual-role registration workflow supporting **College Students** and **Boarding House Landlords**.
